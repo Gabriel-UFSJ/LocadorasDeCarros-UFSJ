@@ -1,0 +1,16 @@
+Modelo: LOTUS
+Diaria: 4524.000000
+Status: 1
+
+Modelo: FERRARI
+Diaria: 6952.000000
+Status: 1
+
+Modelo: MCLAREN
+Diaria: 5465.000000
+Status: 1
+
+Modelo: GOL
+Diaria: 655.000000
+Status: 1
+
